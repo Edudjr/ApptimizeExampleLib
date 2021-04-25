@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Apptimize",
+        "repositoryURL": "https://github.com/urbanairship/apptimize-ios-kit",
+        "state": {
+          "branch": null,
+          "revision": "1c07657489ea08ab422b183dcefa3f3004a562be",
+          "version": "3.4.21"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
